@@ -1,8 +1,6 @@
 <img align="left" src="assets/logo.png">
 
-<p align="center">
-## 👋🏻 Hi there, I'm Shamlan!
-</p>
+<h3 align="center">👋🏻 Hi there, I'm Shamlan!</h3>
 
 ---
 
@@ -31,6 +29,7 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 ![achievements](assets/achievements.svg)
 
 </details>
+
 
 
 
