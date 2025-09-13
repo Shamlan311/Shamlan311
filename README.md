@@ -13,7 +13,7 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 ### 🔗 Social media
 - <a href="https://www.youtube.com/@S𱎫" target="_blank">**YouTube**</a>
 - <a href="https://github.com/Shamlan311" target="_blank">**GitHub**</a>
-- <a href="discord://discordapp.com/users/shanks312_" target="_blank">**Discord**</a>
+- <a href="discord://discord.com/CodeBox" target="_blank">**Discord**</a>(https://discord.gg/nexustools)
 - <a href="https://www.x.com/ShamlanAlt" target="_blank">**X**</a>
 - <a href="https://www.https://www.linkedin.com/in/shamlan-al-tayyar-4aa618384" target="_blank">**LinkedIn**</a>
 
@@ -23,5 +23,6 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 ![achievements](assets/achievements.svg)
 
 </details>
+
 
 
