@@ -4,14 +4,15 @@
 
 ---
 
-I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>**H4cker**</i></a></b> and an <b>open-source</b> developer who loves crafting <code>&lt;code&gt;</code> and building projects that actually make a difference.
-
----
+I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>H4cker</i></a></b> and an <b>open-source</b> developer who loves crafting <code>&lt;code&gt;</code> and building projects that actually make a difference.
 
 <br clear="both"/>
 
-My <a href="https://www.youtube.com/@S𱎫" target="_blank">**YouTube**</a>
-My <a href="https://www.x.com/ShamlanAlt" target="_blank">**X**</a>
+---
+
+### 🔗 Social media
+- <a href="https://www.youtube.com/@S𱎫" target="_blank">**YouTube**</a>  
+- <a href="https://www.x.com/ShamlanAlt" target="_blank">**X**</a>
 
 <details>
 <summary>✨ <b>Achievements</b></summary>
