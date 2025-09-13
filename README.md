@@ -2,7 +2,6 @@
 
 <p align="center">
 ### 👋🏻 Hi there, I'm Shamlan!
-- <a href="https://github.com/VatosV2"><img src="https://img.shields.io/github/followers/Shamlan311?label=Follow&style=social"></a>
 </p>
 
 ---
@@ -32,6 +31,7 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 ![achievements](assets/achievements.svg)
 
 </details>
+
 
 
 
