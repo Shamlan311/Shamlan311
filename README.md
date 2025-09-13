@@ -2,7 +2,7 @@
 
 ### 👋🏻 Hello there!
 ---
-I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>**H4cker**</i></a></b> and an <b>open-source</b> developer who loves crafting <code>&lt;code&gt;</code> and building projects that make a difference.
+I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>**H4cker**</i></a></b> and an <b>open-source</b> developer who loves crafting <code>&lt;code&gt;</code> and building projects that actually make a difference.
 
 <br clear="both"/>
 
@@ -12,3 +12,4 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 ![achievements](assets/achievements.svg)
 
 </details>
+
