@@ -13,7 +13,7 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 ### 🔗 Social media
 - <a href="https://www.youtube.com/@S𱎫" target="_blank">**YouTube**</a>  
 - <a href="https://www.x.com/ShamlanAlt" target="_blank">**X**</a>
-- <a href="https://www.https://www.linkedin.com/in/shamlan-al-tayyar-4aa618384" target="_blank">**X**</a>
+- <a href="https://www.https://www.linkedin.com/in/shamlan-al-tayyar-4aa618384" target="_blank">**LinkedIn**</a>
 
 <details>
 <summary>✨ <b>Achievements</b></summary>
