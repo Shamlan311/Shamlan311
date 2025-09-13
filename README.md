@@ -10,15 +10,11 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 
 <br clear="both"/>
 
+My <a href="https://www.youtube.com/@S𱎫" target="_blank"><i>**YouTube**</i></a>
+
 <details>
 <summary>✨ <b>Achievements</b></summary>
 
 ![achievements](assets/achievements.svg)
 
 </details>
-
-
-
-
-
-
