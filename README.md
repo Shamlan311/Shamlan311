@@ -22,5 +22,3 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 ![achievements](assets/achievements.svg)
 
 </details>
-
----
