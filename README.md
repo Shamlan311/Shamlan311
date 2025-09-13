@@ -24,4 +24,3 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 ![achievements](assets/achievements.svg)
 
 </details>
-
