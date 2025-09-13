@@ -19,7 +19,7 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 
 ---
 
-<strong>💼 Owner of <a href="https://discord.gg/Hw3Kh4xgSE" target="_blank">CodeBox</a></strong>
+💼 Owner of <a href="https://discord.gg/Hw3Kh4xgSE" target="_blank">CodeBox</a>
 
 
 <details>
@@ -28,4 +28,5 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 ![achievements](assets/achievements.svg)
 
 </details>
+
 
