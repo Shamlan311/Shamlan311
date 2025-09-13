@@ -17,17 +17,16 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 - <a href="https://www.x.com/ShamlanAlt" target="_blank">**X**</a>
 - <a href="https://www.https://www.linkedin.com/in/shamlan-al-tayyar-4aa618384" target="_blank">**LinkedIn**</a>
 
+---
+
+<p align="center">
+  <strong>💼 Owner of <a href="https://discord.gg/Hw3Kh4xgSE" target="_blank">CodeBox</a></strong>
+</p>
+
 <details>
 <summary>✨ <b>Achievements</b></summary>
 
 ![achievements](assets/achievements.svg)
 
 </details>
-
-
-
-
-
-
-
 
