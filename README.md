@@ -15,7 +15,6 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 - <a href="https://github.com/Shamlan311" target="_blank">**GitHub**</a>
 - <a href="https://discord.gg/Hw3Kh4xgSE" target="_blank">**Discord**</a>
 - <a href="https://www.x.com/ShamlanAlt" target="_blank">**Twitter**</a>
-- <a href="https://www.linkedin.com/in/shamlan-al-tayyar-4aa618384" target="_blank">**LinkedIn**</a>
 
 ---
 
@@ -25,3 +24,4 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 ![achievements](assets/achievements.svg)
 
 </details>
+
