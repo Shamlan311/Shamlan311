@@ -10,4 +10,5 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank">H4c
 <summary>✨ <b>Achievements</b></summary>
 
 ![achievements](assets/achievements.svg)
+
 </details>
