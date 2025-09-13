@@ -11,6 +11,7 @@ I'm a passionate <b><a href="https://www.youtube.com/@S𱎫" target="_blank"><i>
 <br clear="both"/>
 
 My <a href="https://www.youtube.com/@S𱎫" target="_blank">**YouTube**</a>
+My <a href="https://www.x.com/ShamlanAlt" target="_blank">**X**</a>
 
 <details>
 <summary>✨ <b>Achievements</b></summary>
@@ -18,4 +19,3 @@ My <a href="https://www.youtube.com/@S𱎫" target="_blank">**YouTube**</a>
 ![achievements](assets/achievements.svg)
 
 </details>
-
