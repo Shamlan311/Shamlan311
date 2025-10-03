@@ -9,8 +9,11 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 ---
 
 ## ⚡ Dev Setup
-- **Hardware:** Ryzen 9 3900X 🧠 | GTX 1650 Super 🎮 | 32GB RAM ⚡ | 2TB SSD 💾
-- **Software & Tools:** Windows 11 🪟 | VSCode ✍️ | Godot Engine 🚀 | …and more
+- **CPU:** Ryzen 9 3900X 🧠
+- **GPU:** GTX 1650 Super 🎮
+- **RAM:** 32GB ⚡
+- **Storage:** 2TB SSD 💾
+- **OS & Tools:** Windows 11 🪟, VSCode ✍️, Godot Engine 🚀, and more…
 
 ---
 
@@ -28,5 +31,6 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 ![achievements](assets/achievements.svg)
 
 </details>
+
 
 
