@@ -10,9 +10,9 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 
 ### 🔗 Connect with me
 - 🎥 [**YouTube**](https://www.youtube.com/@S𱎫)
-- [**GitHub**](https://github.com/Shamlan311) 🐙
-- [**Discord**](https://discord.gg/Hw3Kh4xgSE) 💬
-- [**Twitter**](https://www.x.com/ShamlanAlt) 🐦
+- 🐙 [**GitHub**](https://github.com/Shamlan311)
+- 💬 [**Discord**](https://discord.gg/Hw3Kh4xgSE)
+- 🐦 [**Twitter**](https://www.x.com/ShamlanAlt)
 
 ---
 
@@ -22,6 +22,7 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 ![achievements](assets/achievements.svg)
 
 </details>
+
 
 
 
