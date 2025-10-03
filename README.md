@@ -1,27 +1,24 @@
-<img align="left" src="assets/logo.png">
+<img align="left" src="assets/logo.png" width="100" style="margin-right: 15px;">
 
-### 👋🏻 Hi there, I'm Shamlan!
-
----
-
-I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves crafting <code>&lt;code&gt;</code> and building projects that actually make a difference.
+### 👋🏻 Hi, I'm Shamlan!
 
 ---
 
-### 🔗 Social media
-- <a href="https://www.youtube.com/@S𱎫" target="_blank">**YouTube**</a>
-- <a href="https://github.com/Shamlan311" target="_blank">**GitHub**</a>
-- <a href="https://discord.gg/Hw3Kh4xgSE" target="_blank">**Discord**</a>
-- <a href="https://www.x.com/ShamlanAlt" target="_blank">**Twitter**</a>
+I'm a passionate **H4cker** 💻 and **open-source** enthusiast, building projects that actually make a difference. I love writing `<code>` and turning ideas into reality.  
+
+---
+
+### 🔗 Connect with me
+- [**YouTube**](https://www.youtube.com/@S𱎫) 🎥
+- [**GitHub**](https://github.com/Shamlan311) 🐙
+- [**Discord**](https://discord.gg/Hw3Kh4xgSE) 💬
+- [**X / Twitter**](https://www.x.com/ShamlanAlt) 🐦
 
 ---
 
 <details>
-<summary>✨ <b>Achievements</b></summary>
+<summary>✨ <b>Achievements & Highlights</b></summary>
 
 ![achievements](assets/achievements.svg)
 
 </details>
-
-
-
