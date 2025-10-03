@@ -10,7 +10,7 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 
 ## ⚡ Dev Setup
 - **PC:** GTX 1650 Super, Ryzen 9 3900X, 32GB RAM, 2TB SSD
-- **OS & Tools:** Windows 11, VSCode, Godot Engine, and more…
+- **OS & Tools:** Windows 11, VSCode, Godot, and more…
 
 ---
 
@@ -28,6 +28,7 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 ![achievements](assets/achievements.svg)
 
 </details>
+
 
 
 
