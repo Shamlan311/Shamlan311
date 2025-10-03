@@ -17,10 +17,8 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 ---
 
 <details>
-<summary>✨ <b>Achievements</b></summary>
+<summary>🏆 <b>Achievements</b></summary>
 
 ![achievements](assets/achievements.svg)
 
 </details>
-
----
