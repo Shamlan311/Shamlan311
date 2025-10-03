@@ -8,6 +8,12 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 
 ---
 
+## 💻 Setup
+- **PC:** GTX 1650 Super, Ryzen 9 3900X, 32GB RAM, 2TB SSD
+- **Tools:** Windows 11, VSCode, Godot Engine, more
+
+---
+
 ### 🔗 Connect with me
 - 🎥 [**YouTube**](https://www.youtube.com/@S𱎫)
 - 🐙 [**GitHub**](https://github.com/Shamlan311)
@@ -22,3 +28,4 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 ![achievements](assets/achievements.svg)
 
 </details>
+
