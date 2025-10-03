@@ -1,4 +1,4 @@
-<img src="assets/logo.png" alt="assets/logo.png" width="150"/>
+<img align="left" src="assets/logo.png">
 
 ### 👋🏻 Hi there, I'm Shamlan!
 
