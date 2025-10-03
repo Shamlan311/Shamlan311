@@ -8,11 +8,13 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 
 ---
 
-### 🔗 Social
-- [**YouTube**](https://www.youtube.com/@S𱎫) 🎥
-- [**GitHub**](https://github.com/Shamlan311) 🐙
-- [**Discord**](https://discord.gg/Hw3Kh4xgSE) 💬
-- [**Twitter**](https://www.x.com/ShamlanAlt) 🐦
+### 🔗 Connect with me
+<p>
+  <a href="https://www.youtube.com/@S𱎫" target="_blank">🎥 YouTube</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Shamlan311" target="_blank">🐙 GitHub</a> &nbsp;|&nbsp;
+  <a href="https://discord.gg/Hw3Kh4xgSE" target="_blank">💬 Discord</a> &nbsp;|&nbsp;
+  <a href="https://www.x.com/ShamlanAlt" target="_blank">🐦 Twitter</a>
+</p>
 
 ---
 
@@ -22,6 +24,7 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 ![achievements](assets/achievements.svg)
 
 </details>
+
 
 
 
