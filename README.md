@@ -14,6 +14,9 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 - [**Discord**](https://discord.gg/Hw3Kh4xgSE) 💬
 - [**Twitter**](https://www.x.com/ShamlanAlt) 🐦
 
+### 🛠 Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
 ---
 
 <details>
@@ -22,3 +25,4 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who loves c
 ![achievements](assets/achievements.svg)
 
 </details>
+
