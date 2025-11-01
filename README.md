@@ -19,7 +19,7 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who *loves*
 - 🐙 [**GitHub**](https://github.com/Shamlan311)
 - 👾 [**Discord**](https://discord.gg/Hw3Kh4xgSE)
 - 🐥 [**Twitter**](https://www.x.com/ShamlanAlt)
-- 📧 **Contact:** [ShamlanContact@gmail.com](mailto:ShamlanContact@gmail.com)
+- 📧 [**Contact**](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnZNFlKszvlqDTwnGPQLPLfrcVfVVrBQfwWdWwctcHSxSjhFWVPvRPwmCnDGJKhpcnVqpB)
 
 ---
 
@@ -29,4 +29,5 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who *loves*
 ![achievements](assets/achievements.svg)
 
 </details>
+
 
