@@ -4,7 +4,7 @@
 
 ---
 
-I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who *loves* crafting <code>&lt;code&gt;</code> and building projects that actually make a difference.
+I'm a passionate <b>*Hacker*</b> and an <b>open-source</b> developer who *loves* crafting <code>&lt;code&gt;</code> and building projects that actually make a difference.
 
 ---
 
@@ -29,4 +29,5 @@ I'm a passionate <b>*H4cker*</b> and an <b>open-source</b> developer who *loves*
 ![achievements](assets/achievements.svg)
 
 </details>
+
 
