@@ -1,6 +1,6 @@
 <img align="left" src="assets/logo.png">
 
-## 👋🏻 Hi there, I'm Shamlan!
+### 👋🏻 Hi there, I'm Shamlan!
 
 I'm a passionate **cybersecurity enthusiast** and **open-source** developer who loves crafting `code` and building projects that actually make a difference.
 
@@ -34,6 +34,7 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
   ![achievements](assets/achievements.svg)
 </details>
+
 
 
 
