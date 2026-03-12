@@ -15,7 +15,7 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 | 🧠 RAM | 32GB |
 | 💾 Storage | 2TB SSD |
 | 🪟 OS | Windows 11 Pro |
-| 🛠️ Tools | VSCode, Visual Studio, Godot, Unity, UE5, and more… |
+| 🛠️ Tools | Visual Studio Code, Visual Studio, and more… |
 
 ---
 
@@ -33,6 +33,7 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
   ![achievements](assets/achievements.svg)
 </details>
+
 
 
 
