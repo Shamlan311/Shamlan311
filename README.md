@@ -14,7 +14,7 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 | 🔲 CPU | Ryzen 9 3900X |
 | 🧠 RAM | 32GB |
 | 💾 Storage | 2TB SSD |
-| 🪟 OS | Windows 11 |
+| 🪟 OS | Windows 11 Pro |
 | 🛠️ Tools | VSCode, Visual Studio, and more… |
 
 ---
@@ -34,3 +34,4 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
   
   ![achievements](assets/achievements.svg)
 </details>
+
