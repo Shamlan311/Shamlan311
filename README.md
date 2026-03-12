@@ -21,10 +21,9 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
 ### 🔗 Connect with me
 
-* 💼 [Portfolio](https://portique312.netlify.app)
 * 🎥 [YouTube](https://www.youtube.com/@S𱎫)
 * 🐥 [Twitter](https://x.com/ShamlanAlt)
-* 📧 [Contact](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTGmzZvNdvnVfGXGkHwLXhBGCjKlpNtjTzlkQktgfjVChNqmqWncnsncBCnXpPCdzPGMbB)
+* 📧 [Contact](https://discord.com/users/1379546857847656471)
 
 ---
 
@@ -34,6 +33,7 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
   ![achievements](assets/achievements.svg)
 </details>
+
 
 
 
