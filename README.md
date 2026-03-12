@@ -1,36 +1,36 @@
 <img align="left" src="assets/logo.png">
 
-### 👋🏻 Hi there, I'm Shamlan!
+👋🏻 Hi there, I'm Shamlan!
+
+I'm a passionate **cybersecurity enthusiast** and **open-source** developer who loves crafting `code` and building projects that actually make a difference.
 
 ---
 
-I'm a passionate <b>*cybersecurity enthusiast*</b> and an <b>open-source</b> developer who *loves* crafting <code>&lt;code&gt;</code> and building projects that actually make a difference.
+### ⚡ Dev Setup
 
----
-
-## ⚡ Dev Setup
-- **PC:** GTX 1650 Super, Ryzen 9 3900X, 32GB RAM, 2TB SSD
-- **OS & Tools:** Windows 11, VSCode, VS, and more…
+| Component | Details |
+|-----------|---------|
+| 🖥️ GPU | GTX 1650 Super |
+| 🔲 CPU | Ryzen 9 3900X |
+| 🧠 RAM | 32GB |
+| 💾 Storage | 2TB SSD |
+| 🪟 OS | Windows 11 |
+| 🛠️ Tools | VSCode, Visual Studio, and more… |
 
 ---
 
 ### 🔗 Connect with me
-- 💼 [**Portfolio**](https://portique312.netlify.app)
-- 🎥 [**YouTube**](https://www.youtube.com/@S𱎫)
-- 🐥 [**Twitter**](https://www.x.com/ShamlanAlt)
-- 📧 [**Contact**](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnZNFlKszvlqDTwnGPQLPLfrcVfVVrBQfwWdWwctcHSxSjhFWVPvRPwmCnDGJKhpcnVqpB)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
 <details>
-<summary>🏆 <b>Achievements</b></summary>
-
-![achievements](assets/achievements.svg)
-
+  <summary>🏆 <b>Achievements</b></summary>
+  <br>
+  
+  ![achievements](assets/achievements.svg)
 </details>
-
-
-
-
-
-
