@@ -21,17 +21,16 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
 ### 🔗 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+* 💼 [Portfolio](https://portique312.netlify.app)
+* 🎥 [YouTube](https://www.youtube.com/@S𱎫)
+* 🐥 [Twitter](https://x.com/ShamlanAlt)
+* 📧 [Contact](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTGmzZvNdvnVfGXGkHwLXhBGCjKlpNtjTzlkQktgfjVChNqmqWncnsncBCnXpPCdzPGMbB)
 
 ---
 
 <details>
   <summary>🏆 <b>Achievements</b></summary>
   <br>
-  
+
   ![achievements](assets/achievements.svg)
 </details>
-
