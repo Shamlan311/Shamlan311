@@ -23,7 +23,7 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
 * 🎥 [YouTube](https://www.youtube.com/@S𱎫)
 * 🐥 [Twitter](https://x.com/ShamlanAlt)
-* 📧 [Contact](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTGmzZvNdvnVfGXGkHwLXhBGCjKlpNtjTzlkQktgfjVChNqmqWncnsncBCnXpPCdzPGMbB)
+* 📧 [Contact](mailto:ShamlanContact@gmail.com)
 
 ---
 
@@ -33,6 +33,7 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
   ![achievements](assets/achievements.svg)
 </details>
+
 
 
 
