@@ -6,6 +6,8 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
 ---
 
+---
+
 ### ⚡ Dev Setup
 
 | Component | Details |
@@ -33,6 +35,7 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
   ![achievements](assets/achievements.svg)
 </details>
+
 
 
 
