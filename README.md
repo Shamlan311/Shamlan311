@@ -14,7 +14,7 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 |-----------|---------|
 | 🖥️ GPU | GTX 1650 Super |
 | 🔲 CPU | Ryzen 9 3900X |
-| 🧠 RAM | 32GB |
+| 🧠 RAM | 32GB DDR4 |
 | 💾 Storage | 2TB SSD |
 | 🪟 OS | Windows 11 Pro |
 | 🛠️ Tools | Visual Studio Code, Visual Studio, and more… |
@@ -35,6 +35,7 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
   ![achievements](assets/achievements.svg)
 </details>
+
 
 
 
