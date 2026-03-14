@@ -4,7 +4,8 @@
 
 I'm a passionate **cybersecurity enthusiast** and **open-source** developer who loves crafting `<code>` and building projects that actually make a difference. `</code>`
 
-~ <abbr title="By 12 — my alias, not my age">By 12.</abbr>
+~ By 12.
+<sub><i>(an alias, not my age)</i></sub>
 
 ---
 
