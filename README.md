@@ -4,8 +4,7 @@
 
 I'm a passionate **cybersecurity enthusiast** and **open-source** developer who loves crafting `<code>` and building projects that actually make a difference. `</code>`
 
-~ By 12.
-<sub><i>(an alias, not my age)</i></sub>
+~ By 12. <sub><i>(alias, not my age)</i></sub>
 
 ---
 
