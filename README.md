@@ -2,7 +2,7 @@
 
 ### 👋🏻 Hi there, I'm PYR0!
 
-I'm a passionate **cybersecurity enthusiast** and **open-source** developer who loves crafting `<code>` and building projects that actually make a difference `</code>`.
+I'm a passionate **cybersecurity enthusiast** and **open-source** developer who loves crafting `<code>` and building projects that actually make a difference. `</code>`
 
 ---
 
