@@ -4,8 +4,7 @@
 
 I'm a passionate **cybersecurity enthusiast** and **open-source** developer who loves crafting `<code>` and building projects that actually make a difference. `</code>`
 
-
-~ By 12
+~ <abbr title="By 12 — my alias, not my age">By 12.</abbr>
 
 ---
 
@@ -36,20 +35,3 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
   ![achievements](assets/achievements.svg)
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
